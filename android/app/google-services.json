@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "609229553255",
+    "project_id": "make-friends-app-2024",
+    "storage_bucket": "make-friends-app-2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609229553255:android:4c26d2021f29ef64761ec2",
+        "android_client_info": {
+          "package_name": "com.example.make_friends_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe1xfViDHXu7Hsb5C5j38I3CGtN_AY0Js"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
